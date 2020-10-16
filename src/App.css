@@ -36,3 +36,113 @@
     transform: rotate(360deg);
   }
 }
+
+.title {
+  width:15%;
+}
+
+.titlebar {
+  background-color: #abcdef;
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%; 
+  font-size: 0.9em;
+}
+
+.titlebar div{
+  margin-left:1em;
+}
+
+.titlebar .maindiv {
+  margin-top: 0.3em;
+}
+
+.titlebar h1 {
+  text-align: center;
+  margin-top: 0;
+}
+
+.innertable {
+  padding-left: 0.5em;
+}
+
+.numericInput {
+  width:5em;
+  border-style: none;
+}
+
+.nameTextInput {
+  min-width: 8em;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.songs {
+  margin-bottom: 8%;
+}
+
+.songContainer {
+  min-width: 24%;
+  border-radius: 0.2em;
+  border-color: #abcdef;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.songProperty {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #abcdef;
+  padding-left: 0.2em;
+  padding-bottom: 0.1em;
+  padding-top: 0.1em;
+  align-content: center;
+  width:15%;
+  height:10%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.songProperty.songHeaderProperty {
+  border-color: #9abcde;
+  font-weight: bold;
+}
+
+.songProperty.songYear{
+  width:5%;
+  min-width:5%;
+}
+
+.songProperty.songLink{
+  width:10%;
+  min-width:10%;
+}
+
+.missingLink {
+  font-style: italic;
+  color:#AAA;
+}
+
+.Dropdown-control.dropdown {
+  border-style: none;
+  width: 17em;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.footerBar {
+  background-color: white;
+  color: #888;
+  position: fixed;
+  padding-top: 0.3em;
+  top: 95%;
+  left: 0;
+  width: 100%; 
+  height:8%;
+  font-size: 0.9em;
+}
