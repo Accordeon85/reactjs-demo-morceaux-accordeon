@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reacts-demo-morceaux-accordeon/static/css/main.6b71dc0c.chunk.css",
+    "main.js": "/reacts-demo-morceaux-accordeon/static/js/main.17a6e0de.chunk.js",
+    "main.js.map": "/reacts-demo-morceaux-accordeon/static/js/main.17a6e0de.chunk.js.map",
+    "runtime-main.js": "/reacts-demo-morceaux-accordeon/static/js/runtime-main.d99344b6.js",
+    "runtime-main.js.map": "/reacts-demo-morceaux-accordeon/static/js/runtime-main.d99344b6.js.map",
+    "static/css/2.ee241de9.chunk.css": "/reacts-demo-morceaux-accordeon/static/css/2.ee241de9.chunk.css",
+    "static/js/2.7e697f07.chunk.js": "/reacts-demo-morceaux-accordeon/static/js/2.7e697f07.chunk.js",
+    "static/js/2.7e697f07.chunk.js.map": "/reacts-demo-morceaux-accordeon/static/js/2.7e697f07.chunk.js.map",
+    "index.html": "/reacts-demo-morceaux-accordeon/index.html",
+    "precache-manifest.3aa02ec5127e4a0b27241eee077a0c9d.js": "/reacts-demo-morceaux-accordeon/precache-manifest.3aa02ec5127e4a0b27241eee077a0c9d.js",
+    "service-worker.js": "/reacts-demo-morceaux-accordeon/service-worker.js",
+    "static/css/2.ee241de9.chunk.css.map": "/reacts-demo-morceaux-accordeon/static/css/2.ee241de9.chunk.css.map",
+    "static/css/main.6b71dc0c.chunk.css.map": "/reacts-demo-morceaux-accordeon/static/css/main.6b71dc0c.chunk.css.map",
+    "static/js/2.7e697f07.chunk.js.LICENSE.txt": "/reacts-demo-morceaux-accordeon/static/js/2.7e697f07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d99344b6.js",
+    "static/css/2.ee241de9.chunk.css",
+    "static/js/2.7e697f07.chunk.js",
+    "static/css/main.6b71dc0c.chunk.css",
+    "static/js/main.17a6e0de.chunk.js"
+  ]
+}
