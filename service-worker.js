@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/reacts-demo-morceaux-accordeon/precache-manifest.3aa02ec5127e4a0b27241eee077a0c9d.js"
+  "/reacts-demo-morceaux-accordeon/precache-manifest.202ce49bb579949c45fd3826fba6b822.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e12143c67b3f97e5336193e05800ba1a",
+    "revision": "1f1c2e33b55d286004a6fa36dc98627e",
     "url": "/reacts-demo-morceaux-accordeon/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reacts-demo-morceaux-accordeon/static/css/2.ee241de9.chunk.css"
   },
   {
-    "revision": "11489e2f640b71029433",
-    "url": "/reacts-demo-morceaux-accordeon/static/css/main.6b71dc0c.chunk.css"
+    "revision": "4069848106fda5b3c036",
+    "url": "/reacts-demo-morceaux-accordeon/static/css/main.6dc6861c.chunk.css"
   },
   {
     "revision": "cbf978929a72bb75eb3e",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reacts-demo-morceaux-accordeon/static/js/2.7e697f07.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11489e2f640b71029433",
-    "url": "/reacts-demo-morceaux-accordeon/static/js/main.17a6e0de.chunk.js"
+    "revision": "4069848106fda5b3c036",
+    "url": "/reacts-demo-morceaux-accordeon/static/js/main.d4ad8b38.chunk.js"
   },
   {
     "revision": "05df1b6c432c91f2cac3",
