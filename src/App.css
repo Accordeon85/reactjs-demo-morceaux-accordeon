@@ -107,8 +107,14 @@
   text-overflow: ellipsis;
 }
 
+.songPropertyOdd {
+  background-color: #cdefff;
+}
+
 .songProperty.songHeaderProperty {
+  margin-top: 1em;
   border-color: #9abcde;
+  background-color: #abcdef;
   font-weight: bold;
 }
 
@@ -124,7 +130,7 @@
 
 .missingLink {
   font-style: italic;
-  color:#AAA;
+  color:#999;
 }
 
 .Dropdown-control.dropdown {

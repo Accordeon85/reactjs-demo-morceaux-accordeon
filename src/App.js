@@ -154,7 +154,7 @@ function App() {
             Link={c.Link} Year={c['Recording year']} Kind={c.Kind}
             InstrumentType={c['Instrument type']}
             Composer={c.Composer}
-            songPropertyClassName='songProperty' />)
+            songPropertyClassName={i%2 === 0 ?'songProperty': ' songProperty songPropertyOdd'} />)
       }
       </div>
       <FooterBar />
