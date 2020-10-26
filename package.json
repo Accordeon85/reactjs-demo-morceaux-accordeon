@@ -2,7 +2,7 @@
   "name": "chansons-accordeon",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://accordeon85.github.io/reacts-demo-morceaux-accordeon",
+  "homepage": "https://accordeon85.github.io/reactjs-demo-morceaux-accordeon",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
